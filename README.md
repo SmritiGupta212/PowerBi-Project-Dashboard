@@ -19,7 +19,7 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
 - Sharing Insights
   Publish and share the dashboard with stakeholders, enabling them to interact with and explore the insights.
 
-  - Dashboard Interaction -<a href="https://github.com/SmritiGupta212/PowerBi-Project-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+ - Dashboard Interaction -<a href="https://github.com/SmritiGupta212/PowerBi-Project-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Project Learnings
 * Created interactive dashboard to track and analyze online sales data.
@@ -29,6 +29,7 @@ Owner of Madhav Store wants us to help them create a dashboard to track and anal
   
 ## Tools & Technology Used
 - Power Bi
+
   
 ## Dashboard
 ![Screenshot](https://github.com/user-attachments/assets/b26493c1-6575-4164-bf0f-56698f4d6dee)
