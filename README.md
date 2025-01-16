@@ -1,2 +1,5 @@
-# PowerBi-Project-Dashboard
-Created an interactive dashboard for Madhav Store to track online sales across India. The project included data cleaning, modeling, and visualizations like charts and maps. The dashboard features filters for detailed analysis and provides actionable sales insights.  Tools used: Power BI
+# Madhav Ecommerce Sales Dashboard (Interactive Dashboard creation using Power Bi)
+## Project Objective
+Owner of Madhav Store wants us to help them create a dashboard to track and analyze their online sales across India.
+
+
